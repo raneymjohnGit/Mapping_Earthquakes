@@ -54,4 +54,4 @@ Follow the instructions below and the numbered comments in the starter code to c
 
 ## Final Earthquake Data 
   - Final image after completing Delverabel 1 , 2 and 3
-    ![image_name](https://github.com/raneymjohnGit/UFOs/blob/main/static/Images/UFO_Sightings.png)
+    ![image_name](https://github.com/raneymjohnGit/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Resources/EarthquakeDataOnMap.png)
